@@ -1,0 +1,5 @@
+# Dependencies directories
+node_modules
+
+# Remove package-lock.json
+package-lock.json

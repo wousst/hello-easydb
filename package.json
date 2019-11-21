@@ -1,0 +1,7 @@
+{
+    "name": "hello-easydb",
+    "description": "Basics usage of EasyDB with NodeJS",
+    "dependencies": {
+        "easydb-io": "*"
+    }
+}
